@@ -1,4 +1,5 @@
-# Zadanie rekrutacyjne MK
+# Zadanie rekrutacyjne solvro ML
+Wybrałem zadanie klasyfikacji obrazków.
 Jak uruchomić:
 1. Otwórz Google Colab
 2. Otwórz nowy notatnik
